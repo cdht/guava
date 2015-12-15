@@ -1,5 +1,5 @@
-How to contribute
-=================
+How to contribute : 
+=================== 
 
 Thank you so much for wanting to contribute to Guava! Here are a few important
 things you should know about contributing:
